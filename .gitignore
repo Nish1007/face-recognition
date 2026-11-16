@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+# your own reference photo is personal data: it is never committed
+reference.jpg
+reference.jpeg
+reference.png
